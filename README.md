@@ -1,4 +1,4 @@
-# search_demo
+# path_finder
 
 A new Flutter application.
 
